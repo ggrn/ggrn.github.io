@@ -2,7 +2,7 @@
 
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'ggrn blog',
+  title: `ggrn's blog`,
   author: 'ggrn',
   headerTitle: `ggrn's blog`,
   description: 'A blog',
@@ -13,12 +13,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png', // TODO: change logo
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'gyareon124@gmail.com',
+  github: 'https://github.com/ggrn',
   // twitter: 'https://twitter.com/Twitter',
   // facebook: 'https://facebook.com',
   // youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  // linkedin: 'https://www.linkedin.com',
   locale: 'ko-KR',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
